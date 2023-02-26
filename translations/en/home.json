@@ -1,0 +1,17 @@
+{
+  "banner": {
+    "user": "User registered",
+    "main": "Free-to-play rhythm game for Android",
+    "secondary": "rhythm is just a tap away"
+  },
+  "about": {
+    "title": "About",
+    "text": "This is a fan-made website dedicated to gather everything related to osu!droid in one place, with the goal of delivering the best possible user experience.\nOur aim is to provide a comprehensive one-stop site that caters to all your needs about the game, where you can find everything from leaderboards and news to guides, player statistics, and much more!\n\nOsu!droid is a free-to-play circle-clicking rhythm game for Android, inspired by the popular rhythm game osu!\nThe project is developed by a group of passionate fans, with the support of foreign contributors.\nThe game is open-source and is continually evolving.\n\nWhether you're seeking to enhance your skills, engage with other osu!droid fans, or stay up-to-date with the latest news, we offer something for everyone.\nWe invite you to explore our thriving and passionate community, participate in our events, and enjoy the game to the fullest!"
+  },
+  "community": {
+    "title": "Join our thriving community!"
+  },
+  "news": {
+    "title": "Latest news"
+  }
+}
