@@ -1,0 +1,7 @@
+{
+  "table": {
+    "score": "Score",
+    "accuracy": "Accuracy",
+    "playcount": "Playcount"
+  }
+}
