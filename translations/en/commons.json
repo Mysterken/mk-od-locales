@@ -1,3 +1,6 @@
 {
-  "download": "download"
+  "download": "Download",
+  "score": "Score",
+  "dpp" : "Dpp",
+  "global": "Global"
 }
